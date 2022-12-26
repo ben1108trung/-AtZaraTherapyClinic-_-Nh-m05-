@@ -10,8 +10,8 @@
           3. Nguyễn Hữu Duy Khang (Student1420700)
           4. Nguyễn Nam Khánh (Student1420718)
 ===================================
-Document: https://github.com/ben1109trung/ZaraTherapyClinic_group05/tree/main/documentations
+Document: https://github.com/ben1108trung/-AtZaraTherapyClinic-_-Nh-m05-/tree/main/documentations
 ===================================
-Publishde website: https://ben1108trung.github.io/ZaraTherapyClinic_group05
+Publishde website: https://ben1108trung.github.io/-AtZaraTherapyClinic-_-Nh-m05-/
 ===================================
 Thank you for visit our website.

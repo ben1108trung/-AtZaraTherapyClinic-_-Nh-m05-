@@ -25,7 +25,7 @@ Document: https://github.com/ben1108trung/-AtZaraTherapyClinic-_-Nh-m05-/tree/ma
 
 ===================================
 
-Publishde website: https://ben1108trung.github.io/-AtZaraTherapyClinic-_-Nh-m05-/soucrecode/index.html
+Publishde website: https://ben1108trung.github.io/-AtZaraTherapyClinic-_-Nh-m05-/sourecode/index.html
 
 =================================== 
 
